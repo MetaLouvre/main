@@ -30,8 +30,8 @@
 @import url("../fonts/icofont/icofont.min.css");
 
 * {
-    --body-font: "DM Sans", Helvetica, Arial, sans-serif;
-    --title-font: "DM Sans", Helvetica, Arial, sans-serif;
+    --body-font: "DM Sans";
+    --title-font: "DM Sans";
 }
 
 /* ================================================== */
